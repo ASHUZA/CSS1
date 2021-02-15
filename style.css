@@ -1,0 +1,129 @@
+h1
+{
+text-align: center;
+font-weight: bold;
+font-size: 3em;
+
+}
+
+h2
+{
+color : #e3001f;
+font-size: 2em;
+font-weight: bold;
+
+}
+
+h3
+{
+
+}
+
+#cite
+{
+    width: 830px ;  
+    border : 3px #671fb1 dashed ;
+      padding: 2%;
+      margin : auto;
+      color: #671fb1;
+      background-color: #b7b7b7;
+
+} 
+
+a
+{
+color :  #e3001f;
+text-decoration:none ;
+font-style:underline ;
+font-weight: bold;
+}
+img
+{
+
+}
+
+figure
+{
+
+    border :3px  #e3001f solid ;
+    border-radius: 10px ;
+    background-color: black;
+    text-align: center;
+}
+
+p
+{
+
+    text-align: justify ;
+
+}
+
+body{
+
+
+  
+    background-color: #c8c8c8;
+  
+    text-align: left;
+
+  }
+
+
+
+ #tableau tr:nth-child(odd)
+ 
+{
+    background-color: #dddddd;
+}
+
+
+#tableau tr:hover
+{
+    background-color: #999999;
+    cursor : pointer;
+}
+
+  #maPage
+  {
+
+    
+width: 950px;
+margin: auto;
+
+  }
+th
+{
+background-color: #333333;
+}
+  #Para
+  {
+      width: 850px ;
+      border : 3px #671fb1 dashed ;
+      padding: 2%;
+      margin : auto;
+      color: #671fb1;
+      background-color: #b7b7b7;
+
+
+  }
+
+  figcaption
+  {
+     
+    color: white;
+    text-align: center;
+  }
+
+.codes
+{
+
+    background-color: #b7b7b7;
+    padding: 20px;
+    color: #671fb1;
+    line-height: 1.8;
+    word-spacing: 5px ;
+    border-left: 3px solid #671fb1;
+    height: 300px;
+    overflow: scroll;
+
+}
